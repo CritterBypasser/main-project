@@ -10,3 +10,6 @@ Stepper motor control (NEMA 17 + driver)
 Zynq SoC integration (custom PCB + Vivado design)
 
 System-level control (via PS)
+
+https://allaboutfpga.com/edge-zynq-soc-fpga-kit-demonstration-manual-pl/?srsltid=AfmBOooR9IvezGwEL7K10qbdXrB-Bfq34ezgpGDR7qt1CpV_7gZxXLdc
+
