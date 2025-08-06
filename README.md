@@ -13,3 +13,4 @@ System-level control (via PS)
 
 https://allaboutfpga.com/edge-zynq-soc-fpga-kit-demonstration-manual-pl/?srsltid=AfmBOooR9IvezGwEL7K10qbdXrB-Bfq34ezgpGDR7qt1CpV_7gZxXLdc
 
+https://www.enggjournals.com/ijet/docs/IJET16-08-01-054.pdf
